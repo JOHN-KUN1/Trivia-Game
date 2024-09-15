@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347788456058",
+    "project_id": "trivia-game-bb2ac",
+    "storage_bucket": "trivia-game-bb2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347788456058:android:1ded83a0d7853a41e78bc3",
+        "android_client_info": {
+          "package_name": "com.john.triviagame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj44BflrQ5Yr04BuNxV0R0jP4uigpM4nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
